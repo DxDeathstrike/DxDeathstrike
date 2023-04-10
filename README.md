@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DxDeathstrike
 - 👀 I’m interested in gaming and coding
-- 🌱 I’m currently learning python and C#
+- 🌱 I’m currently learning python and Java
 - 💞️ I’m looking to collaborate on any project
 - 📫 You can reach me on discord Dx_Deathstrike#2188
 
