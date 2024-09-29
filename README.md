@@ -113,7 +113,11 @@ Whats the point in this site you ask, when there already is The GamepadViewer? W
 
 ![click-here-gif-4](https://github.com/user-attachments/assets/a7c8936a-11ce-41e3-a391-07683ea6dff4)
 
+# Instagram Username Claimer Bot
 
+**Overview:** This Python script automates the login process, checks for the availability of specific usernames, and claims them before proceeding to the next account. It utilizes Selenium to interact seamlessly with the Instagram and Meta web pages.
+
+![Instagram Username Claimer](https://github.com/user-attachments/assets/bd1b7072-da22-4fd6-95fb-8bb9d1da6332)
 
 
 </a>
