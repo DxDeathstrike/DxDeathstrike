@@ -20,8 +20,8 @@
 - *A passionate Self-taught Front-end and software developer*
 - *Creating Projects and Designing in free time*
 - *Currently learning Web Development by Self*
-- *My Personal website [link here](https://seorextech.netlify.app/)*
-- *I’m currently open for an Intern or a new job opportunity, this is [my website](https://seorextech.netlify.app/) or contact me directly for more info*
+- *My Personal website [link here](https://seorextech.com/)*
+- *I’m currently open for an Intern or a new job opportunity, this is [my website](https://seorextech.com/) or contact me directly for more info*
 
 <br><br>
 
@@ -30,7 +30,7 @@
 ## My Website
 
 
-**[SeorexTech](https://seorextech.netlify.app/)**
+**[SeorexTech](https://seorextech.com/)**
 
 
 Welcome this is my personal website, your portal to the world of programming, photography, and design. Here, you'll find a curated collection of my work, ranging from coding projects to artistic endeavors. Explore my gallery and projects to see what I've been creating!
