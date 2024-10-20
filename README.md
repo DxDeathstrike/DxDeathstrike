@@ -105,7 +105,7 @@ Whats the point in this site you ask, when there already is The GamepadViewer? W
 
 
 
-<a href="https://gamepadvision.netlify.app/" target="_blank">
+<a href="https://gamepadvision.com/" target="_blank">
 <img src="https://github.com/user-attachments/assets/8b486278-6dbc-49fd-9cfd-d6f0106db529" alt=GPVision Banner style="margin-bottom: 5px;"/>
 </a>
 
