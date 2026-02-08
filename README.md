@@ -117,7 +117,18 @@ Whats the point in this site you ask, when there already is The GamepadViewer? W
 
 **Overview:** This Python script automates the login process, checks for the availability of specific usernames, and claims them before proceeding to the next account. It utilizes Selenium to interact seamlessly with the Instagram and Meta web pages.
 
-![Instagram Username Claimer](https://github.com/user-attachments/assets/bd1b7072-da22-4fd6-95fb-8bb9d1da6332)
+<a href="https://github.com/DxDeathstrike/Instagram-Username-Claimer-Bot" target="_blank">
+<img src="https://github.com/user-attachments/assets/bd1b7072-da22-4fd6-95fb-8bb9d1da6332" alt=Instagram Username Claimer style="margin-bottom: 5px;"/>
+</a>
+
+
+# Facebook Auto Reporter
+
+**Overview:** This script automates the login process, steps and reason for report. It utilizes Selenium to interact seamlessly with the Facebook web pages and has an updater to help keep your code running and working seamlessly.
+
+<a href="https://github.com/DxDeathstrike/Facebook-Auto-Reporter" target="_blank">
+<img src="https://github.com/user-attachments/assets/952e6405-de13-4393-9fa1-0e9b2bdce78f" alt=fb auto report style="margin-bottom: 5px;"/>
+</a>
 
 
 </a>
